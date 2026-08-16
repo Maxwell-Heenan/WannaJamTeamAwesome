@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/maxwe/Documents/Unreal Projects/WannaJamGameDemo/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/maxwe/Documents/Unreal Projects/WannaJamGameDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/MF/P9ZNLJSB3R09C9DPTS0H3P.uasset",
+				"C:/Users/maxwe/Documents/Unreal Projects/WannaJamGameDemo/Content/ThirdPerson/Maps/level2.umap",
+				"C:/Users/maxwe/Documents/Unreal Projects/WannaJamGameDemo/Content/ThirdPerson/Maps/TriggerBox_Blueprint.uasset",
+				"C:/Users/maxwe/Documents/Unreal Projects/WannaJamGameDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/MM/27DI5OJJ1YF3HS1D88TKDH.uasset",
+				"C:/Users/maxwe/Documents/Unreal Projects/WannaJamGameDemo/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/maxwe/Documents/Unreal Projects/WannaJamGameDemo/Content/ThirdPerson/Maps/level3.umap",
+				"C:/Users/maxwe/Documents/Unreal Projects/WannaJamGameDemo/Content/Blueprints/LevelTrigger.uasset",
+				"C:/Users/maxwe/Documents/Unreal Projects/WannaJamGameDemo/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/maxwe/Documents/Unreal Projects/WannaJamGameDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset",
+				"C:/Users/maxwe/Documents/Unreal Projects/WannaJamGameDemo/Content/Lvl2.umap",
+				"C:/Users/maxwe/Documents/Unreal Projects/WannaJamGameDemo/Content/ThirdPerson/Maps/Lvl2.umap",
+				"C:/Users/maxwe/Documents/Unreal Projects/WannaJamGameDemo/Content/__ExternalActors__/ThirdPerson/Maps/Lvl2/5/RK/7W5FCQXZADI1T8YRNT5LU2.uasset",
+				"C:/Users/maxwe/Documents/Unreal Projects/WannaJamGameDemo/Content/__ExternalActors__/ThirdPerson/Maps/Lvl2/D/N3/8O2ZRUZ9G6Q8P3JDR9FPBB.uasset",
+				"C:/Users/maxwe/Documents/Unreal Projects/WannaJamGameDemo/Content/__ExternalActors__/ThirdPerson/Maps/Lvl2/1/8U/7RYCCMTYFFK7W83L9RRL1M.uasset"
+			]
+		}
+	]
+}
